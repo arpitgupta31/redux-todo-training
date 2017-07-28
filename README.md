@@ -1,2 +1,2 @@
 # redux-todo-training
-Re
+Redux To-Do App
